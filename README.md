@@ -66,7 +66,7 @@ Bu proje, bir şirketin personel bilgilerini yönetmek amacıyla geliştirilmiş
 
 ## 🎥 Proje Tanıtım Videosu
 
-📺 [YouTube Video Linki]([[https://www.youtube.com](https://youtu.be/3nO8b8Anw1g](https://youtu.be/3nO8b8Anw1g)))
+📺 [YouTube Video Linki][(https://youtu.be/3nO8b8Anw1g)
 
 ---
 
